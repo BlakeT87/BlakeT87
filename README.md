@@ -4,19 +4,12 @@
 [![Linkedin: btolliver](https://img.shields.io/badge/-btolliver-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/btolliver/)](https://www.linkedin.com/in/btolliver/)
 [![GitHub BlakeT87](https://img.shields.io/github/followers/BlakeT87?label=follow&style=social)](https://github.com/BlakeT87)
 
-<img align="right" width="200px" src="https://pbs.twimg.com/profile_images/1645531250143182848/61CjgfGu_400x400.jpg">
 
 After 15 years in automotive manufacturing, I'm ready to take my problem solving skills and apply them to the tech industry.
 
 Since I was in high school I've been fascinated by computers and I've never stopped.
 
-
-
-
-
-<img align="left" width="200px" src="https://media.licdn.com/dms/image/D5622AQFPFmVMzM15VA/feedshare-shrink_800/0/1681221331070?e=1684972800&v=beta&t=L1vIO8OcTMYqVgfwPU-dZwA47uxGycRpIAJhD2qz70w">
-
-In my junior year of high school (left, est. 2003) I was part of the school's SWAT (students working to advance technolorgy) program. We learned about computer hardware, and a little bit about computer software.
+In my junior year of high school I was part of the school's SWAT (students working to advance technolorgy) program. We learned about computer hardware, and a little bit about computer software.
 
 Since then, I've spent my time raising a family and working my way through the ranks at my company.
 
